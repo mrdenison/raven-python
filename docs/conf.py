@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Sentry documentation build configuration file, created by
-# sphinx-quickstart on Wed Oct 20 16:21:42 2010.
+# spx-quickstart on Wed Oct 20 16:21:42 2010.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
